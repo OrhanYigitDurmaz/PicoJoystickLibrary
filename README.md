@@ -1,2 +1,2 @@
 # PicoJoystickLibrary
-Pico library that allows an RP2040 Microcontroller to appear as a Joystick or Gamepad.
+Pico library that allows an RP2040 Microcontroller to appear as a Joystick or Gamepad. With support for custom descriptors.
